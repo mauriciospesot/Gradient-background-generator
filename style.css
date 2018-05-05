@@ -13,8 +13,6 @@ body {
 
 h1 {
     font-size: 3.5em;
-    font-weight: 100;
-
 }
 
 h2 {
@@ -30,6 +28,6 @@ h2 {
     cursor: pointer;
 }
 
-h4 {
+h4, h1 {
     font-weight: 100;
 }
